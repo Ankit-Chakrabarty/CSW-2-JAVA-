@@ -4,7 +4,7 @@ getter/setter methods for these attributes. In the CarTester class, instantiate 
 the Car class: myCar1 with a specified make and model, and myCar2 with null values. After 
 instantiation, the CarTester class should retrieve and print the initial make and model of both 
 cars. Then, it should set new values for myCar2 using setter methods and print the updated 
-make and model of car.*/
+make and model.*/
 
 
 class car{
